@@ -1,0 +1,9 @@
+﻿# Image Credits
+
+All images courtesy of Unsplash (https://unsplash.com).
+
+- Yann Le Comte (https://unsplash.com/photos/83Jan1nnQKg)
+- Brandi Redd (https://unsplash.com/photos/aJTiW00qqtI)
+- Janko Ferlic (https://unsplash.com/photos/sfL_QOnmy00)
+- Romain Vignes (https://unsplash.com/photos/ywqa9IZB-dU)
+- Joao Silas (https://unsplash.com/photos/I_LgQ8JZFGE)
