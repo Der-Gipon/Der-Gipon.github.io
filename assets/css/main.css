@@ -1172,7 +1172,7 @@
 	}
 
 		.items .item {
-			margin: 2em 0 0 2em;
+			margin: 2em 0px -30px 2em;
 			width: calc(50% - 2em);
 		}
 
@@ -1467,7 +1467,7 @@
 /* Intro */
 
 	#intro {
-		padding: 4em 4em 2em 4em;
+		padding: 1.5em 4em 0.1em 4em;
 		background-color: #ffffff;
 		border-radius: 4px;
 		text-align: center;
