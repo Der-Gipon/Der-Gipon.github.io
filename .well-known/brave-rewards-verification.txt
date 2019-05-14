@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: tidewrite.com
-Token: 35139517924891b42806658a0bbf2d9ed9561a0641d67e6fbc042df3958f0273
