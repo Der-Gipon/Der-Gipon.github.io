@@ -372,7 +372,7 @@
 		button.fit,
 		.button.fit {
 			display: block;
-			margin: 10 0 1em 10;
+			margin: 10 0 -4em 10;
 			width: 100%;
 		}
 
